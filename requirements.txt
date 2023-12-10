@@ -3,3 +3,4 @@ pip
 matplotlib
 PIL
 numpy
+streamlit
