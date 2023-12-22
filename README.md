@@ -10,12 +10,16 @@ Then I transfer the notebook result to VS Code and develop a streamlit web app f
 
 <h3>Features in version 0.1</h3>
 1. Convert ASTM D1160 values to TBP
+
 2. Plot in a graph
+   
 3. Download the converted value to csv.
 
 <h3>Future Improvements</h3>
 1. Convert single value instead of waiting for overall conversion
+
 2. Include other ASTM method for conversion
+   
 3. Include graph as downloadable.
 
 If you have any issues, and want to know more, you may contact me at
